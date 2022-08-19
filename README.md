@@ -3,20 +3,18 @@
 Bienvenue sur le github de <a href="https://nevaty.fr">Nevaty</a> !! <br/>
 C'est ici que vous pourrez partager vos idées de gameplay ainsi que les différents bugs rencontrés aux développeurs de Nevaty
 <br/> <br/>
-Vous pouvez <a href=https://github.com/Supre-le-sucre/Nevaty/issues>rédiger un rapport ici</a> et il sera pris en charge rapidement par l'équipe de développement
+Vous pouvez <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new/choose">rédiger un rapport ici</a> et il sera pris en charge rapidement par l'équipe de développement
 <br/>
 **NB:** Un compte GitHub est requit pour déposer un rapport.
 
 # Comment rédiger votre rapport ?
 
-Une fois sur la page "Issues", cliquez sur le bouton vert "New". Vous pouvez choisir parmis 2 types de rapports:
+Une fois sur la page "Issues", cliquez sur le bouton vert "New". Vous pouvez choisir parmis <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new/choose">2 types de rapports:</a> 
 
 - Rapport d'idée
 - Rapport de bug
 
 Choisissez le rapport approprié et suivez les indications qui s'afficheront afin que le rapport soit clair pour l'équipe de développeurs et que nous puission rapidement donner suite à votre demande.
-
-======
 
 # Que se passe-t-il ensuite ?
 

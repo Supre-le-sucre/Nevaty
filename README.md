@@ -25,6 +25,6 @@ potentiellement demandées afin qu'il puisse donner suite à votre rapport.
 
 Vous n'avez pas à répondre immédiatement, cependant, les rapports qui ne reçoivent pas de réponses pendant un trop long lapse de temps (plusieurs jours) se verront probablement fermés.
 
-# On vous remecie d'avance pour votre contribution !!
+# On vous remercie d'avance pour votre contribution !!
 
 En faisant un rapport ici, vous aidez les joueurs de la communauté de Nevaty à avoir la meilleure expérience de jeu possible, alors merci beaucoup !!

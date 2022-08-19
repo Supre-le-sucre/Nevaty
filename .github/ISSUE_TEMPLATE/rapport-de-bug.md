@@ -1,7 +1,7 @@
 ---
 name: Rapport de bug
 about: Créer un rapport de bug
-title: 'BUG >> '
+title: BUG >> Titre de votre rapport
 labels: Bug non confirmé
 assignees: ''
 

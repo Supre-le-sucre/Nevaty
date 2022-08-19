@@ -14,7 +14,7 @@ Décrivez clairement et de manière concise ce que fait le bug.
 Décrivez les étapes pour reproduire le bug:
 
 1. Faire '...'
-2. Cliquez sur '....'
+2. Cliquer sur '....'
 3. Aller à '.....'
 4. Le bug s'affiche.
 

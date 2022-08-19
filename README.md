@@ -16,7 +16,7 @@ Une fois sur la page "Issues", cliquez sur le bouton vert "New Issue". Vous pouv
 
 Choisissez le rapport approprié et suivez les indications qui s'afficheront afin que le rapport soit clair pour l'équipe de développeurs et que nous puissions rapidement donner suite à votre demande.
 
-**NB:** Tous les rapports de bug sont d'abord labelisés en <a href="https://github.com/Supre-le-sucre/Nevaty/labels/Bug%20non%20confirm%C3%A9">"Bug non confirmé"</a> lors de leur publications. Ce n'est que lorsqu'un développeur aura réussi à reproduire le bug que son label changera en <a href="https://github.com/Supre-le-sucre/Nevaty/labels/Bug%20confirm%C3%A9">"Bug confirmé"</a> et que nous pourrons alors donner suite à votre problème. C'est pourquoi il faut être suffisamment précis pour que l'équipe de développement puisse régler le soucis.
+**NB:** Tous les rapports de bug sont d'abord labelisés en <a href="https://github.com/Supre-le-sucre/Nevaty/labels/Bug%20non%20confirm%C3%A9">"Bug non confirmé"</a> lors de leurs publications. Ce n'est que lorsqu'un développeur aura réussi à reproduire le bug que son label changera en <a href="https://github.com/Supre-le-sucre/Nevaty/labels/Bug%20confirm%C3%A9">"Bug confirmé"</a> et que nous pourrons alors donner suite à votre problème. C'est pourquoi il faut être suffisamment précis pour que l'équipe de développement puisse régler le soucis.
 
 # Que se passe-t-il ensuite ?
 

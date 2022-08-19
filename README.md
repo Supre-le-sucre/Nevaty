@@ -9,7 +9,7 @@ Vous pouvez <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new/choose"
 
 # Comment rédiger votre rapport ?
 
-Une fois sur la page "Issues", cliquez sur le bouton vert "New". Vous pouvez choisir parmis <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new/choose">2 types de rapports:</a> 
+Une fois sur la page "Issues", cliquez sur le bouton vert "New Issue". Vous pouvez choisir parmis <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new/choose">2 types de rapports:</a> 
 
 - Rapport d'idée
 - Rapport de bug

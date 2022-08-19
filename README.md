@@ -9,27 +9,12 @@ Vous pouvez <a href=https://github.com/Supre-le-sucre/Nevaty/issues>rédiger un 
 
 # Comment rédiger votre rapport ?
 
-Afin qu'une réponse efficace puisse être apportée à chaque rapport, merci de respecter le modèle suivant \/ <br/>
-**NB:** Tout rapport ne respectant pas le modèle peuvent mettre plus de temps à être résolu. Certains rapports pourraient être aussi fermés sans suite. <br/> <br/>
+Une fois sur la page "Issues", cliquez sur le bouton vert "New". Vous pouvez choisir parmis 2 types de rapports:
 
-======
+- Rapport d'idée
+- Rapport de bug
 
-Type de rapport: <Idée/Bug>
-
-Description:<br/>
-Décrivez en quelques lignes la raison du rapport
-
-Si c'est une idée -> Comment devrait être implémentée cette idée à Nevaty ?
-
-Décrivez comment la fonctionnalité que vous souhaitez implémeter doit être entre autres développée par l'équipe de développeurs<br/>
-**Cette partie se doit d'être précise pour que les développeurs puissent comprendre votre idée un maximum**
-
-Si c'est un bug -> Comment reproduire le bug ?
-
-Décrivez minutieusement les étapes qui vous ont permis de reproduire le bug pour aider l'équipe de dévleoppeurs à trouver une solution appropriée pour réparer le problème
-<br/>**Cette partie se doit d'être précise pour que les développeurs puissent comprendre la raison du bug qui n'a rien d'évident la plupart du temps.**
-
-Facultativement, vous pouvez joindre des screenshots en lien avec le rapport.
+Choisissez le rapport approprié et suivez les indications qui s'afficheront afin que le rapport soit clair pour l'équipe de développeurs et que nous puission rapidement donner suite à votre demande.
 
 ======
 

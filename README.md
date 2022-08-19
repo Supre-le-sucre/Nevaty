@@ -9,10 +9,10 @@ Vous pouvez <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new/choose"
 
 # Comment rédiger votre rapport ?
 
-Une fois sur la page "Issues", cliquez sur le bouton vert "New Issue". Vous pouvez choisir parmis <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new/choose">2 types de rapports:</a> 
+Une fois sur la page "Issues", cliquez sur le bouton vert "New Issue". Vous pouvez choisir parmis 2 types de rapports:
 
-- Rapport d'idée
-- Rapport de bug
+- <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new?assignees=&labels=Bug+non+confirm%C3%A9&template=rapport-de-bug.md&title=BUG+%3E%3E+Titre+de+votre+rapport"> Rapport d'idée </a>
+- <a href="https://github.com/Supre-le-sucre/Nevaty/issues/new?assignees=&labels=Id%C3%A9e&template=rapport-d-id-e.md&title=Id%C3%A9e+%3E%3E+Titre+de+votre+rapport">Rapport de bug </a>
 
 Choisissez le rapport approprié et suivez les indications qui s'afficheront afin que le rapport soit clair pour l'équipe de développeurs et que nous puission rapidement donner suite à votre demande.
 

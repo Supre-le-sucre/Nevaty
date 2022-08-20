@@ -1,6 +1,6 @@
 ---
 name: Rapport d'idée
-about: Suggérez une idée de gameplay
+about: Suggérer une idée de gameplay
 title: Idée >> Titre de votre rapport
 labels: Idée
 assignees: ''
